@@ -4,8 +4,6 @@
 			CLKMessage maked by Mustafa Çolakoğlu.
 			Contact
 				mailto://mustafacolakoglu94@gmail.com
-				http://facebook.com/220mustafa
-				http://mcolak.net
 			This library is using MYSQL.
 			If you want to use this library, you must load your DATABASE CLKMessage.sql
 			Starting.
